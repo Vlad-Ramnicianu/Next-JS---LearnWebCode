@@ -7,3 +7,6 @@ Concepts:
 * server side caching and client side
 * using template folders and files (dynamic content)
 * fetching data from sources (APIs or DB)
+
+Still to do:
+* learn how to use vercel server for deployment (last part of tutorial)
